@@ -48,7 +48,7 @@ function resetCounters(){
 // Render functions
 function startPage(element) {
 	var content = "<h1>Welcome to the Manchester United Quiz</h1>" +
-								"<h2>Do you know the club inside-out like Alex Ferguson or are you as clueless as Fernandinho?</h2>" +
+								"<h2>Do you know the club inside-out like Alex Ferguson or are you as clueless as Adebayo?</h2>" +
 								"<button class='js-start'>Start</button>";
 	element.html(content);
 }
